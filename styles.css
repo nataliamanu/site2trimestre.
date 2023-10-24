@@ -1,4 +1,4 @@
-:root {--cor-de-fundo: hsl(220, 20%, 36%);
+:root {--cor-de-fundo: hsl(240, 100%, 100%);
 } 
 
 body {background-color: var(--cor-de-fundo);}
